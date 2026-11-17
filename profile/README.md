@@ -27,16 +27,3 @@ Připravujeme e-shop se dvěma směry oblečení:
 - **Blank oblečení za nižší cenu.** Jednoduché kousky bez potisku pro lidi, kteří dávají přednost čistému vzhledu a dostupnější ceně oproti variantám s designem.
 
 Oba směry mají pod Gym Decoded své místo. Někdo chce výrazný motiv, někdo obyčejný blank. E-shop je zatím v přípravě; nabídku, konkrétní ceny a termín spuštění zveřejníme později.
-
-## Kam míříme
-
-Chceme budovat značku, která má co nabídnout při cvičení i mimo něj. Aplikace má usnadnit sledování vlastního úsilí. Oblečení má dát prostor vlastnímu stylu — od jednoduchých blank kousků po designy, o kterých se mluví.
-
-## Gym Decoded na GitHubu
-
-GitHub používáme pro vývoj digitální části Gym Decoded, plánování funkcí a spolupráci týmu.
-
-- [Repozitář aplikace](https://github.com/Gym-Decoded/gym_decoded)
-- [Roadmapa projektu](https://github.com/Gym-Decoded/gym_decoded/issues/1)
-- [Úkoly a návrhy](https://github.com/Gym-Decoded/gym_decoded/issues)
-- [Návrh aplikace ve Figmě](https://www.figma.com/design/GPBxS1v0MsbziIaJf0zoRg/Gym-Decoded?node-id=10-540)
