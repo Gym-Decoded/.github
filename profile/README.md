@@ -1,4 +1,4 @@
-# Gym Decoded
+<img width="648" height="144" alt="Světlý podklad" src="https://github.com/user-attachments/assets/4aefd60e-c6c7-4c0b-a17d-ee5c5f6b7d18" />
 
 **Trénink, vlastní styl a prostor mít svůj názor.**
 
